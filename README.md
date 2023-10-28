@@ -1,2 +1,2 @@
-# tsl
-TSL plugin provides support for the TLS for the different plugins 
+# TLS
+TLS plugin provides support for the TLS for the different plugins 
