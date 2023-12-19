@@ -2,7 +2,7 @@ module github.com/roadrunner-server/tls/v4
 
 go 1.21
 
-toolchain go1.21.3
+toolchain go1.21.5
 
 require (
 	github.com/caddyserver/certmagic v0.20.0
