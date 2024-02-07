@@ -1,14 +1,14 @@
 module github.com/roadrunner-server/tls/v4
 
-go 1.21
+go 1.22
 
-toolchain go1.21.5
+toolchain go1.22.0
 
 require (
 	github.com/caddyserver/certmagic v0.20.0
 	github.com/roadrunner-server/errors v1.4.0
 	go.uber.org/zap v1.26.0
-	golang.org/x/sys v0.16.0
+	golang.org/x/sys v0.17.0
 )
 
 require (
@@ -18,7 +18,7 @@ require (
 	github.com/miekg/dns v1.1.58 // indirect
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/crypto v0.18.0 // indirect
+	golang.org/x/crypto v0.19.0 // indirect
 	golang.org/x/mod v0.15.0 // indirect
 	golang.org/x/net v0.20.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
