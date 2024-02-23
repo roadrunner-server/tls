@@ -7,12 +7,12 @@ toolchain go1.22.0
 require (
 	github.com/caddyserver/certmagic v0.20.0
 	github.com/roadrunner-server/errors v1.4.0
-	go.uber.org/zap v1.26.0
+	go.uber.org/zap v1.27.0
 	golang.org/x/sys v0.17.0
 )
 
 require (
-	github.com/klauspost/cpuid/v2 v2.2.6 // indirect
+	github.com/klauspost/cpuid/v2 v2.2.7 // indirect
 	github.com/libdns/libdns v0.2.1 // indirect
 	github.com/mholt/acmez v1.2.0 // indirect
 	github.com/miekg/dns v1.1.58 // indirect
